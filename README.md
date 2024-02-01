@@ -1,4 +1,4 @@
-# App for tracking suubjects
+# App for tracking subjects
 
 ## Project setup
 ```
